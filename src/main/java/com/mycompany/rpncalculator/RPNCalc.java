@@ -13,8 +13,6 @@ import java.util.Stack;
  * @author Michael
  */
 public class RPNCalc {
-
-    private static Stack<Integer> stack = new Stack<Integer>();
     private static Scanner in = new Scanner(System.in);
 
     public static void calculator() {
